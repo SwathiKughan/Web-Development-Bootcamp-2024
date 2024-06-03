@@ -16,9 +16,6 @@ Welcome to my repository for "The Complete Web Development Bootcamp 2024" by Ang
   - [Section 8: RESTful API](#section-8-restful-api)
   - [Section 9: Authentication](#section-9-authentication)
   - [Section 10: React.js](#section-10-reactjs)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -80,4 +77,10 @@ This repository includes the full range of tasks and projects from the Udemy cou
 - Introduction to React.js
 - Building dynamic web applications
 
+## License
+Distributed under the MIT License. See LICENSE for more information.
+
+## Acknowledgements
+Angela Yu for the comprehensive course
+Udemy for the platform
 
