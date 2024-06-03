@@ -78,7 +78,7 @@ This repository includes the full range of tasks and projects from the Udemy cou
 - Building dynamic web applications
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License.
 
 ## Acknowledgements
 Angela Yu for the comprehensive course
